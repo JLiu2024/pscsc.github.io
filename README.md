@@ -1,2 +1,5 @@
-# Polytechnic School Computer Science Club
-The home page of the Polytechnic School Computer Science Club!
+## Polytechnic School Computer Science Club
+
+Welcome to the PSCSC website! This site is far from complete, and all suggestions are appreciated.
+
+[PSCSC Discord Server Invite](https://discord.gg/xabTk3Yhan)
