@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Polytechnic School Computer Science Club
 
 You can use the [editor on GitHub](https://github.com/JLiu2024/pscsc.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
