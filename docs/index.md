@@ -10,5 +10,7 @@ To-Do List:
     * Acquire new domain
 * Organize STEM conferences every 2-3 months where the different STEM clubs can show off what they've been working on
 
+[About Us](https://jliu2024.github.io/pscsc.github.io/about)
+
 [PSCSC Discord Server Invite](https://discord.gg/xabTk3Yhan)
 
