@@ -4,7 +4,7 @@ Welcome to the PSCSC website! This site is far from complete; all suggestions ar
 
 To-Do List:
 * Expand Website
-    * Calendar
+    * Calendar, on which meeting dates/locations will be posted.
     * Blogs
     * Discussion Forum
     * Acquire new domain
