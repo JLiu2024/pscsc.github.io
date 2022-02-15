@@ -1,6 +1,6 @@
 ## Polytechnic School Computer Science Club
 
-Welcome to the PSCSC website! This site is far from complete, and all suggestions are appreciated.
+Welcome to the PSCSC website! This site is far from complete; all suggestions are appreciated.
 
 To-Do List:
 * Expand Website
